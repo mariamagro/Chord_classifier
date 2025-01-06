@@ -6,4 +6,4 @@ Developed in collaboration with [MarinaGRey](https://github.com/MarinaGRey).
 
 ## Documentation
 
-A detailed explanation of the methodology and results is provided in the attached report: **[Report L6 tratamiento.pdf](Report L6 tratamiento.pdf)**.
+A detailed explanation of the methodology and results is provided in the attached report: **[Report L6 tratamiento.pdf]**.
